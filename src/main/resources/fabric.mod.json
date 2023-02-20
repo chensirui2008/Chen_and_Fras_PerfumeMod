@@ -3,7 +3,7 @@
 	"id": "perfumemod",
 	"version": "${version}",
 	"name": "perfumemod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Chen & Fra's Perfume Mod.",
 	"authors": [
 		"Me!"
 	],
@@ -16,8 +16,11 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.perfumemod.ExampleMod"
-		]
+			"net.perfumemod.PerfumeMod"
+		],
+    "client": [
+      "net.perfumemod.PerfumeModClient"
+    ]
 	},
 	"mixins": [
 		"perfumemod.mixins.json"
@@ -25,8 +28,7 @@
 	"depends": {
 		"fabricloader": ">=0.14.14",
 		"minecraft": "~1.19",
-		"java": ">=17",
-		"fabric-api": "*"
+		"java": ">=17"
 	},
 	"suggests": {
 		"another-mod": "*"
