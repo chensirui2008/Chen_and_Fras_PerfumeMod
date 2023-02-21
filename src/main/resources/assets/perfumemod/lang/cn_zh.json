@@ -1,5 +1,12 @@
 {
   "item.perfumemod.anise": "八角",
   "item.perfumemod.garlic": "蒜",
-  "item.perfumemod.chili": "辣椒"
+  "item.perfumemod.ginger": "姜",
+  "item.perfumemod.scallion": "葱",
+  "item.perfumemod.fragrant_leaves": "香叶",
+  "item.perfumemod.fennel": "茴香",
+  "item.perfumemod.cumin": "孜然",
+  "item.perfumemod.cinnamon": "桂皮",
+
+  "itemGroup.perfumemod.perfumes": "香料"
 }

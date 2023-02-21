@@ -1,5 +1,13 @@
 {
   "item.perfumemod.anise": "Anise",
   "item.perfumemod.garlic": "Garlic",
-  "item.perfumemod.chili": "Chili"
+  "item.perfumemod.ginger": "Ginger",
+  "item.perfumemod.scallion": "Scallion",
+  "item.perfumemod.fragrant_leaves": "Fragrant Leaves",
+  "item.perfumemod.fennel": "Fennel",
+  "item.perfumemod.cumin": "Cumin",
+  "item.perfumemod.cinnamon": "Cinnamon",
+
+  "itemGroup.perfumemod.perfumes": "Perfumes"
+
 }
